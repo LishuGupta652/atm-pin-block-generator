@@ -1,0 +1,18 @@
+{
+  "name": "pin-block-generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "lishu gupta",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "mocha": "^9.1.4"
+  },
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
